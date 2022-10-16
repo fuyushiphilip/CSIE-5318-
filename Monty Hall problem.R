@@ -4,7 +4,7 @@ montyhall <- function(change=F) {
   if (change) {
     pick != 'car'
   } else {
-    pick == 'car
+    pick == 'car'
   }
 }
 
